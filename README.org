@@ -14,8 +14,11 @@
 
 
 
+** Reference
 
+https://mp.weixin.qq.com/s/py7Y9rR_g7gB_RfzTMzciA
 
+https://www.promptingguide.ai/zh
 
 
 
