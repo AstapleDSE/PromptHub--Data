@@ -49,7 +49,7 @@ def readAllEditorPrompts():
 
         with open(readp, "r", encoding="utf8") as f:
             prompt = f.readlines()
-        prompt = "\n".join(prompt)
+        prompt = "".join(prompt)
         res_dict[prompt_name] = prompt
     return res_dict
 
